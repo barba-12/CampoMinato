@@ -65,22 +65,3 @@ Puoi modificare la dimensione della griglia o il numero di bombe cambiando i par
 ```python
 main(righe, colonne, altezza_celle, larghezza_celle, numero_bombe)
 ```
-
-## Contribuzione
-
-1. Fai un fork del repository.
-2. Crea un branch per la tua feature:
-   ```bash
-   git checkout -b nuova-feature
-   ```
-3. Apporta le modifiche e fai un commit:
-   ```bash
-   git commit -m "Aggiunta nuova feature"
-   ```
-4. Fai il push delle modifiche:
-   ```bash
-   git push origin nuova-feature
-   ```
-5. Crea una pull request.
-
-##
